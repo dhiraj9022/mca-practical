@@ -1,1 +1,4 @@
-C practical for mca 
+- C
+- C++
+- Java
+- ADBMS
